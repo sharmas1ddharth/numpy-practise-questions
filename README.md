@@ -1,4 +1,4 @@
-#Numpy Practise Questions
+# Numpy Practise Questions
 
 ---
 Que 1) How to create an empty, and a full NumPy array?
